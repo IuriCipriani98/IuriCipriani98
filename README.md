@@ -46,7 +46,7 @@ perfil:     Desenvolvedor corporativo
     </td>
     <td valign="top" width="50%">
       <br/>
-      <b>🔜 Em breve</b><br/>
+      <b></b><br/>
       <sub></sub>
       <br/><br/>
     </td>
