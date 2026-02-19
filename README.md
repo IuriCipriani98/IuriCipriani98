@@ -6,10 +6,9 @@
 
 ```yaml
 nome:       Iuri Cipriani de Paula Oliveira
-foco:       Sistemas Desktop & Banco de Dados
-linguagens: [ VB.NET, C# ]
-ambiente:   Visual Studio + SQL Server
-perfil:     Desenvolvedor corporativo
+linguagens: [ VB.NET, C#, SQL ]
+ambiente:   Visual Studio & SQL Server
+perfil:     Desenvolvedor Jr.
 ```
 
 <br/>
@@ -36,8 +35,8 @@ perfil:     Desenvolvedor corporativo
   <tr>
     <td valign="top" width="50%">
       <br/>
-      <b> SQL Scripts </b><br/>
-      <sub></sub>
+      <samp><b>SQL Scripts</b></samp><br/>
+      <sub>Scripts T-SQL para migrações, correções de dados e consultas analíticas em SQL Server.</sub>
       <br/><br/>
       <a href="https://github.com/IuriCipriani98/company-projects">
         <img src="https://img.shields.io/badge/abrir%20repositório-1e293b?style=flat-square&logoColor=a0aec0&logo=github"/>
@@ -46,8 +45,8 @@ perfil:     Desenvolvedor corporativo
     </td>
     <td valign="top" width="50%">
       <br/>
-      <b>Documentações</b><br/>
-      <sub></sub>
+      <samp><b>Documentações</b></samp><br/>
+      <sub>Registros técnicos, fluxos e anotações dos projetos desenvolvidos.</sub>
       <br/><br/>
     </td>
   </tr>
