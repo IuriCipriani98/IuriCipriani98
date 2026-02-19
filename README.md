@@ -54,13 +54,8 @@ perfil:     Desenvolvedor Jr.
 
 ---
 
-### Estatísticas
 
-<div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=IuriCipriani98&show_icons=true&hide_border=true&bg_color=0f172a&title_color=94a3b8&icon_color=64748b&text_color=94a3b8&rank_icon=github" />
-  &nbsp;
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IuriCipriani98&layout=compact&hide_border=true&bg_color=0f172a&title_color=94a3b8&text_color=94a3b8&langs_count=4" />
-</div>
+
 
 <br/>
 
