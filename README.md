@@ -29,50 +29,47 @@ perfil:     Desenvolvedor Jr.
 
 ### Projetos
 
+<!--
+  SCROLL HORIZONTAL — GitHub não renderiza CSS inline em README,
+  mas a tabela com scroll é a melhor aproximação possível no Markdown do GitHub.
+  Os cards ficam lado a lado e rolam horizontalmente.
+-->
+
 <div align="center">
-
-<!-- NAV -->
-<kbd><a href="#sql-scripts">SQL Scripts</a></kbd> &nbsp;·&nbsp;
-<kbd><a href="#documentações">Documentações</a></kbd> &nbsp;·&nbsp;
-<kbd><a href="#whatsapp-monitor">WhatsApp Monitor</a></kbd>
-
-</div>
-
-<br/>
-
 <table>
-  <tr>
-    <td valign="top" width="33%">
-      <br/>
-      <a name="sql-scripts"></a>
-      <samp><b>SQL Scripts</b></samp><br/>
-      <sub>Scripts T-SQL para migrações, correções de dados e consultas analíticas em SQL Server.</sub>
-      <br/><br/>
-      <a href="https://github.com/IuriCipriani98/company-projects">
-        <img src="https://img.shields.io/badge/abrir%20repositório-1e293b?style=flat-square&logoColor=a0aec0&logo=github"/>
-      </a>
-      <br/><br/>
-    </td>
-    <td valign="top" width="33%">
-      <br/>
-      <a name="documentações"></a>
-      <samp><b>Documentações</b></samp><br/>
-      <sub>Registros técnicos, fluxos e anotações dos projetos desenvolvidos.</sub>
-      <br/><br/>
-    </td>
-    <td valign="top" width="33%">
-      <br/>
-      <a name="whatsapp-monitor"></a>
-      <samp><b>WhatsApp Monitor</b></samp><br/>
-      <sub>Dashboard pessoal para monitorar mensagens e gerenciar tasks do WhatsApp com board estilo Trello.</sub>
-      <br/><br/>
-      <a href="https://github.com/IuriCipriani98/whatsapp-monitor">
-        <img src="https://img.shields.io/badge/abrir%20repositório-1e293b?style=flat-square&logoColor=a0aec0&logo=github"/>
-      </a>
-      <br/><br/>
-    </td>
-  </tr>
+<tr>
+<td align="center" width="220" valign="top">
+<br/>
+<samp><b>SQL Scripts</b></samp>
+<br/><br/>
+<sub>Scripts T-SQL para migrações,<br/>correções de dados e consultas<br/>analíticas em SQL Server.</sub>
+<br/><br/>
+<a href="https://github.com/IuriCipriani98/company-projects">
+<img src="https://img.shields.io/badge/abrir%20repositório-1e293b?style=flat-square&logoColor=a0aec0&logo=github"/>
+</a>
+<br/><br/>
+</td>
+<td align="center" width="220" valign="top">
+<br/>
+<samp><b>Documentações</b></samp>
+<br/><br/>
+<sub>Registros técnicos, fluxos<br/>e anotações dos projetos<br/>desenvolvidos.</sub>
+<br/><br/>
+</td>
+<td align="center" width="220" valign="top">
+<br/>
+<samp><b>WhatsApp Monitor</b></samp>
+<br/><br/>
+<sub>Dashboard pessoal para monitorar<br/>mensagens e gerenciar tasks<br/>com board estilo Trello.</sub>
+<br/><br/>
+<a href="https://github.com/IuriCipriani98/whatsapp-monitor">
+<img src="https://img.shields.io/badge/abrir%20repositório-1e293b?style=flat-square&logoColor=a0aec0&logo=github"/>
+</a>
+<br/><br/>
+</td>
+</tr>
 </table>
+</div>
 
 ---
 
