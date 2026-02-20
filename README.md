@@ -1,7 +1,6 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3&height=100&section=header&text=Iuri%20Cipriani&fontSize=28&fontColor=e2e8f0&fontAlignY=65&desc=Software%20Developer&descSize=14&descAlignY=85&descColor=94a3b8" width="100%"/>
 </div>
-
 <br/>
 
 ```yaml
@@ -16,7 +15,6 @@ perfil:     Desenvolvedor Jr.
 ---
 
 ### Tecnologias
-
 &nbsp;
 ![VB.NET](https://img.shields.io/badge/VB.NET-%231e293b?style=flat-square&logoColor=a0aec0&logo=dotnet&labelColor=1e293b&color=1e293b)&nbsp;&nbsp;
 ![C#](https://img.shields.io/badge/C%23-%231e293b?style=flat-square&logo=csharp&logoColor=a0aec0&labelColor=1e293b&color=1e293b)&nbsp;&nbsp;
@@ -31,10 +29,22 @@ perfil:     Desenvolvedor Jr.
 
 ### Projetos
 
+<div align="center">
+
+<!-- NAV -->
+<kbd><a href="#sql-scripts">SQL Scripts</a></kbd> &nbsp;·&nbsp;
+<kbd><a href="#documentações">Documentações</a></kbd> &nbsp;·&nbsp;
+<kbd><a href="#whatsapp-monitor">WhatsApp Monitor</a></kbd>
+
+</div>
+
+<br/>
+
 <table>
   <tr>
-    <td valign="top" width="50%">
+    <td valign="top" width="33%">
       <br/>
+      <a name="sql-scripts"></a>
       <samp><b>SQL Scripts</b></samp><br/>
       <sub>Scripts T-SQL para migrações, correções de dados e consultas analíticas em SQL Server.</sub>
       <br/><br/>
@@ -43,10 +53,22 @@ perfil:     Desenvolvedor Jr.
       </a>
       <br/><br/>
     </td>
-    <td valign="top" width="50%">
+    <td valign="top" width="33%">
       <br/>
+      <a name="documentações"></a>
       <samp><b>Documentações</b></samp><br/>
       <sub>Registros técnicos, fluxos e anotações dos projetos desenvolvidos.</sub>
+      <br/><br/>
+    </td>
+    <td valign="top" width="33%">
+      <br/>
+      <a name="whatsapp-monitor"></a>
+      <samp><b>WhatsApp Monitor</b></samp><br/>
+      <sub>Dashboard pessoal para monitorar mensagens e gerenciar tasks do WhatsApp com board estilo Trello.</sub>
+      <br/><br/>
+      <a href="https://github.com/IuriCipriani98/whatsapp-monitor">
+        <img src="https://img.shields.io/badge/abrir%20repositório-1e293b?style=flat-square&logoColor=a0aec0&logo=github"/>
+      </a>
       <br/><br/>
     </td>
   </tr>
@@ -54,11 +76,7 @@ perfil:     Desenvolvedor Jr.
 
 ---
 
-
-
-
 <br/>
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3&height=80&section=footer" width="100%"/>
 </div>
