@@ -29,12 +29,6 @@ perfil:     Desenvolvedor Jr.
 
 ### Projetos
 
-<!--
-  SCROLL HORIZONTAL — GitHub não renderiza CSS inline em README,
-  mas a tabela com scroll é a melhor aproximação possível no Markdown do GitHub.
-  Os cards ficam lado a lado e rolam horizontalmente.
--->
-
 <div align="center">
 <table>
 <tr>
@@ -42,9 +36,9 @@ perfil:     Desenvolvedor Jr.
 <br/>
 <samp><b>SQL Scripts</b></samp>
 <br/><br/>
-<sub>Scripts T-SQL para migrações,<br/>correções de dados e consultas<br/>analíticas em SQL Server.</sub>
+<sub>Historico de objetos SQL Server<br/>atualizados: Tables, Procedures,<br/>Views e Functions com backup SQL.</sub>
 <br/><br/>
-<a href="https://github.com/IuriCipriani98/company-projects">
+<a href="https://github.com/IuriCipriani98/sql-scripts">
 <img src="https://img.shields.io/badge/abrir%20repositório-1e293b?style=flat-square&logoColor=a0aec0&logo=github"/>
 </a>
 <br/><br/>
