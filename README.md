@@ -45,9 +45,13 @@ perfil:     Desenvolvedor Jr.
 </td>
 <td align="center" width="220" valign="top">
 <br/>
-<samp><b>Documentações</b></samp>
+<samp><b>Gastos Mensais</b></samp>
 <br/><br/>
-<sub>Registros técnicos, fluxos<br/>e anotações dos projetos<br/>desenvolvidos.</sub>
+<sub>Planilha e controle de gastos<br/>financeiros mensais com<br/>categorias e historico.</sub>
+<br/><br/>
+<a href="https://github.com/IuriCipriani98/gastos-mensais">
+<img src="https://img.shields.io/badge/abrir%20repositório-1e293b?style=flat-square&logoColor=a0aec0&logo=github"/>
+</a>
 <br/><br/>
 </td>
 <td align="center" width="220" valign="top">
