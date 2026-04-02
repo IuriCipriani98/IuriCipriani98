@@ -27,47 +27,6 @@ perfil:     Desenvolvedor Jr.
 
 ---
 
-### Projetos
-
-<div align="center">
-<table>
-<tr>
-<td align="center" width="220" valign="top">
-<br/>
-<samp><b>SQL Scripts</b></samp>
-<br/><br/>
-<sub>Historico de objetos SQL Server<br/>atualizados: Tables, Procedures,<br/>Views e Functions com backup SQL.</sub>
-<br/><br/>
-<a href="https://github.com/IuriCipriani98/sql-scripts">
-<img src="https://img.shields.io/badge/abrir%20repositório-1e293b?style=flat-square&logoColor=a0aec0&logo=github"/>
-</a>
-<br/><br/>
-</td>
-<td align="center" width="220" valign="top">
-<br/>
-<samp><b>Gastos Mensais</b></samp>
-<br/><br/>
-<sub>Planilha e controle de gastos<br/>financeiros mensais com<br/>categorias e historico.</sub>
-<br/><br/>
-<a href="https://github.com/IuriCipriani98/gastos-mensais">
-<img src="https://img.shields.io/badge/abrir%20repositório-1e293b?style=flat-square&logoColor=a0aec0&logo=github"/>
-</a>
-<br/><br/>
-</td>
-<td align="center" width="220" valign="top">
-<br/>
-<samp><b>WhatsApp Monitor</b></samp>
-<br/><br/>
-<sub>Dashboard pessoal para monitorar<br/>mensagens e gerenciar tasks<br/>com board estilo Trello.</sub>
-<br/><br/>
-<a href="https://github.com/IuriCipriani98/whatsapp-monitor">
-<img src="https://img.shields.io/badge/abrir%20repositório-1e293b?style=flat-square&logoColor=a0aec0&logo=github"/>
-</a>
-<br/><br/>
-</td>
-</tr>
-</table>
-</div>
 
 ---
 
